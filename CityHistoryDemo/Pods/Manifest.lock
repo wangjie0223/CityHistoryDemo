@@ -1,0 +1,20 @@
+PODS:
+  - SwifterSwift/Foundation (6.2.0)
+  - SwifterSwift/SwiftStdlib (6.2.0)
+  - SwifterSwift/UIKit (6.2.0)
+
+DEPENDENCIES:
+  - SwifterSwift/Foundation
+  - SwifterSwift/SwiftStdlib
+  - SwifterSwift/UIKit
+
+SPEC REPOS:
+  trunk:
+    - SwifterSwift
+
+SPEC CHECKSUMS:
+  SwifterSwift: dd00873fb09cde19da88bdb2878f9fe70fe27b0f
+
+PODFILE CHECKSUM: c669cfd672412b32a5e9b7b06bcb18aebf495086
+
+COCOAPODS: 1.15.2

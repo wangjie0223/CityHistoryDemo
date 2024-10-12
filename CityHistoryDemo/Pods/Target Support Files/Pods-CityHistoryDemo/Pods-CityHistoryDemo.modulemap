@@ -1,0 +1,6 @@
+framework module Pods_CityHistoryDemo {
+  umbrella header "Pods-CityHistoryDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
